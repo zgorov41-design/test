@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>Моя первая страница</title>
+  </head>
+  <body>
+    <h1>Привет, мир!</h1>
+    <p>Это пример простой HTML‑страницы.</p>
+    <ul>
+      <li>Пункт списка 1</li>
+      <li>Пункт списка 2</li>
+      <li>Пункт списка 3</li>
+    </ul>
+    <button>Нажми меня</button>
+  </body>
+</html>
